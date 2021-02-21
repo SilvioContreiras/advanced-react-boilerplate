@@ -1,10 +1,12 @@
 import Head from 'next/head';
 
+const tets = 'kldfkldjfd';
+
 export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Create Next App</   title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
