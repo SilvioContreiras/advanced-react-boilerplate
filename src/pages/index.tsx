@@ -1,14 +1,5 @@
-import Head from 'next/head';
+import Main from 'components/Main';
 
 export default function Home() {
-  return (
-    <div>
-      <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
-      <h3>React TS NEXT </h3>
-    </div>
-  );
+  return <Main />;
 }
