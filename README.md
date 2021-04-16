@@ -1,4 +1,4 @@
-[Next.js](https://nextjs.org/) Boilerplate [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[Next.js](https://nextjs.org/) Boilerplate, created from [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ![alt text](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
 
